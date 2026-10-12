@@ -9,7 +9,7 @@ Uses [UAssetAPI](https://github.com/atenfyr/UAssetAPI) to open every .uasset and
 
 - Place any Unreal Engine Assets you want to modify inside of the "Updater" folder
 - Open the UE Path Updater.exe
-- Follow the CMD Prompts to create a Settings.json that'll remember if you want Backups / UE Version / Path to Find
-- Set the Path to replace With
+- Follow the CMD Prompts to create/load a Settings.json
+- Set the Path to replace with
 - All modified assets and paths will be shown in the CMD
 - Insert the modified assets back into a game using [UnrealPak (UE4)](https://unrealpak.com/) or [Retoc (UE5)](https://github.com/trumank/retoc)
