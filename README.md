@@ -1,6 +1,6 @@
 # UE-Path-Updater
 
-Built in C# with Visual Studio, Requires [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
+Built in C# with Visual Studio 2022, Requires [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
 
 Uses [UAssetAPI](https://github.com/atenfyr/UAssetAPI) to open every .uasset and modify any Name Map with the path provided with a new path.
 [Newtonsoft.Json](https://www.nuget.org/packages/newtonsoft.json/) is just to remember the last used settings so if your going to re-use it for the same game, you don't have to constantly input the UE Version / Pathing.
