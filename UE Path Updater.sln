@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UE Path Updater", "UE Path Updater\UE Path Updater.csproj", "{DE4574DB-E9C6-4BA5-8894-64206383ADDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4574DB-E9C6-4BA5-8894-64206383ADDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4574DB-E9C6-4BA5-8894-64206383ADDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4574DB-E9C6-4BA5-8894-64206383ADDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4574DB-E9C6-4BA5-8894-64206383ADDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15A11375-AC98-4841-A89A-7D2DB88D74DB}
+	EndGlobalSection
+EndGlobal

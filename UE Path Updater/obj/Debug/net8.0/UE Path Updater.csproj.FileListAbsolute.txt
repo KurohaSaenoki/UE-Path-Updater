@@ -1,0 +1,18 @@
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\bin\Debug\net8.0\UE Path Updater.exe
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\bin\Debug\net8.0\UE Path Updater.deps.json
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\bin\Debug\net8.0\UE Path Updater.runtimeconfig.json
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\bin\Debug\net8.0\UE Path Updater.dll
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\bin\Debug\net8.0\UE Path Updater.pdb
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\bin\Debug\net8.0\UAssetAPI.dll
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\UE Path Updater.csproj.AssemblyReference.cache
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\UE Path Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\UE Path Updater.AssemblyInfoInputs.cache
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\UE Path Updater.AssemblyInfo.cs
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\UE Path Updater.csproj.CoreCompileInputs.cache
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\UE Path .3E0AB906.Up2Date
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\UE Path Updater.dll
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\refint\UE Path Updater.dll
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\UE Path Updater.pdb
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\UE Path Updater.genruntimeconfig.cache
+C:\Users\Kuro\source\repos\UE Path Updater\UE Path Updater\obj\Debug\net8.0\ref\UE Path Updater.dll
