@@ -58,7 +58,7 @@
             // toolStrip1
             // 
             toolStrip1.GripStyle = ToolStripGripStyle.Hidden;
-            toolStrip1.Items.AddRange(new ToolStripItem[] { AutomateFilePathBtn, toolStripSeparator2, UEVersionComboBox, toolStripSeparator1, InputBtnSplit, OutputBtn, toolStripSeparator3, AutoDetectUEBtn });
+            toolStrip1.Items.AddRange(new ToolStripItem[] { AutomateFilePathBtn, toolStripSeparator2, UEVersionComboBox, InputBtnSplit, toolStripSeparator1, OutputBtn, toolStripSeparator3, AutoDetectUEBtn });
             toolStrip1.Location = new Point(0, 0);
             toolStrip1.Name = "toolStrip1";
             toolStrip1.Size = new Size(800, 25);
@@ -114,7 +114,7 @@
             // SetInputBtn
             // 
             SetInputBtn.Name = "SetInputBtn";
-            SetInputBtn.Size = new Size(180, 22);
+            SetInputBtn.Size = new Size(177, 22);
             SetInputBtn.Text = "Set Input Folder";
             SetInputBtn.Click += SetInputBtn_Click;
             // 
@@ -122,7 +122,7 @@
             // 
             ReloadInputBtn.Enabled = false;
             ReloadInputBtn.Name = "ReloadInputBtn";
-            ReloadInputBtn.Size = new Size(180, 22);
+            ReloadInputBtn.Size = new Size(177, 22);
             ReloadInputBtn.Text = "Reload Input Folder";
             ReloadInputBtn.Click += ReloadInputBtn_Click;
             // 
